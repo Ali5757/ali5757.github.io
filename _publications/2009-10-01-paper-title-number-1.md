@@ -1,5 +1,6 @@
 ---
 title: "Bundles of metric structures as left ultrafunctors"
+permalink: /publication/2024-Bundles-as-left-ultrafunctors
 collection: 'publications'
 category: 'preprint'
 date: '2024'

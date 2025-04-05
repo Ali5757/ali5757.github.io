@@ -11,7 +11,7 @@ title                    : "About"
 title_separator          : "-"
 name                     : &name "Ali Hamad"
 description              : &description "academic webpage for Ali Hamad"
-url                      : https://ali5757.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ali5757.github.io#
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ali5757/ali5757.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

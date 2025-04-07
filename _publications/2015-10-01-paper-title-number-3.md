@@ -1,8 +1,7 @@
 ---
-title: ""
+title: "Genralised ultractegories and conceeptual completness of geometric logic"
 collection: In preparation
 permalink: /publication/generalised-ultrcategories
-excerpt: '.'
-date: 2015-10-01
+excerpt: 'In preperation'
 ---
 

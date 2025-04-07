@@ -1,10 +1,10 @@
 ---
-  title: "Ultractegories as colax algebras for a pseudo-monad on CAT"
-  permalink: /publication/2025-Ultracategories-as-algebras
-  collection: 'publications'
-  venue: 'preprint'
-  excerpt: ' We show a result inspired by a conjecture by Shulman, that states that Lurie's ultracategories are colax algebras for a pseudo-monad on the category of categories '
-  date: 2025-03-01
-  paperurl: 'https://arxiv.org/abs/2502.20597'
+title: "Bundles of metric structures as left ultrafunctors"
+permalink: /publication/2024-Bundles-as-left-ultrafunctors
+collection: 'publications'
+venue: 'preprint'
+excerpt: 'We explore a new class of ultrcategories, those of complete metric structures, which can be better understood in the framework of continuous model theory, introddcing the notion of bundles of models, and showing it corresponds to a certain class of left ultrafunctors, this notion reduces to already known notions, like Banach bundles and Hilbert bundles.'
+date: 2024-10-10
+paperurl: '/publication/2009-10-01-paper-title-number-1](https://arxiv.org/abs/2406.11076'
 ---
 

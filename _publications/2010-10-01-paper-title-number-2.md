@@ -1,5 +1,5 @@
 ---
-title: "Ultractegories as colax algebras for a pseudo-monad on CAT"
+title: "Ultracategories as colax algebras for a pseudo-monad on CAT"
 permalink: /publication/2025-Ultracategories-as-algebras
 collection: 'publications'
 venue: 'preprint'

@@ -1,5 +1,5 @@
 ---
-title: "Generalised ultracategories and conceeptual completeness of geometric logic"
+title: "Generalised ultracategories and conceptual completeness of geometric logic"
 collection: In preparation
 permalink: /publication/generalised-ultracategories
 venue: 'In preparation'
